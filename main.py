@@ -13,3 +13,7 @@ data.dropna(inplace=True)
 print(data)
 
 
+# multiple linear regression
+
+
+
